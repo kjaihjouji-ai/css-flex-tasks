@@ -1,5 +1,21 @@
 /* BEGIN (write your solution here) */
+.left-aside {
+  width: 200px;
+  min-height: 50vh;
+  background-color: #d32f2f;
+}
 
+.content-side {
+  flex-grow: 1;
+  min-height: 50vh;
+  background-color: #388e3c;
+}
+
+.right-aside {
+  width: 350px;
+  min-height: 50vh;
+  background-color: #1976d2;
+}
 /* END */
 
 .d-flex {
