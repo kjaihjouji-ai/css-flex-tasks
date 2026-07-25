@@ -19,7 +19,21 @@ h2 {
 
 .catalog {
   /* BEGIN (write your solution here) */
+.catalog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 
+  list-style: none;
+  padding: 0;
+
+  text-align: center;
+}
+
+.catalog-item {
+  width: 250px;
+}
   /* END */
 
   text-align: center;
