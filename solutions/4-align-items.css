@@ -14,24 +14,34 @@
 
 .d-flex {
   /* BEGIN (write your solution here) */
-
+.d-flex {
+  display: flex;
+}
   /* END */
 }
 
 .flex-center {
   /* BEGIN (write your solution here) */
-
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
   /* END */
 }
 
 .mr-1 {
   /* BEGIN (write your solution here) */
-
+.text-white {
+  color: #fff;
+}
   /* END */
 }
 
 .text-white {
   /* BEGIN (write your solution here) */
 
+.mr-1 {
+  margin-right: 1em;
+}
   /* END */
 }
