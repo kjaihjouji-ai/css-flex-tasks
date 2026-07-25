@@ -9,7 +9,11 @@ body {
 
 header {
   /* BEGIN (write your solution here) */
-
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
   /* END */
   padding: 0 50px;
 
@@ -29,7 +33,9 @@ header .name {
 
 header nav ul {
   /* BEGIN (write your solution here) */
-
+header nav ul {
+  display: flex;
+}
   /* END */
   padding: 0;
 
@@ -42,7 +48,9 @@ header nav ul li {
 
 main {
   /* BEGIN (write your solution here) */
-
+main {
+  display: flex;
+}
   /* END */
 }
 
