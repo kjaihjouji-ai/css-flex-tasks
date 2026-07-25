@@ -37,6 +37,8 @@ body {
 
 .no-shrink {
   /* BEGIN (write your solution here) */
-
+.no-shrink {
+  flex-shrink: 0;
+}
   /* END */
 }
